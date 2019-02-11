@@ -1,0 +1,1 @@
+{"button":[{"name":"告警设置","sub_button":[{"type":"click","name":"获取OPENID","key":"GET_OPENID"}]},{"name":"协软科技","sub_button":[{"type":"click","name":"公司简介","key":"GET_COMPANY_INFO"}]}]}
